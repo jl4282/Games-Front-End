@@ -1,0 +1,48 @@
+#header{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #98dad3;
+	border-radius: 5px;
+	text-align: center;
+	font-family: sans-serif, georgia;
+}
+
+#name{
+	padding-left: 10px;
+}
+
+#content{
+	width: 70%;
+	position: relative;
+	padding-left: 20%;
+	padding-right: 20%;
+	background-color: #E6E6E6;
+	border-radius: 5px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	padding-top: 10px;
+	
+}
+body{
+	background-color: #E6E5E6;
+}
+
+table, th, tr, td{
+	border-collapse: collapse;
+	text-align:center;
+	border-color:#b3abab;
+}
+
+img {
+	height: 100px;
+}
+/*#game{
+	width: 70%;
+	border-style: solid;
+	border-width:2px;
+	border-color: #5C5C5C;
+	position: relative;
+	padding-left: 5px;
+	background-color: #E6E5E6;
+
+}
